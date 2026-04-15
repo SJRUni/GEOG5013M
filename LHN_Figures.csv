@@ -1,0 +1,297 @@
+﻿ONS Code,Local Authority Name,Region,LHN under the previous standard method,LHN under the new standard method,Average Annual Net additions (2021/22-2023/24)
+E06000001,Hartlepool,North East,157,361,483
+E06000002,Middlesbrough,North East,251,522,572
+E06000003,Redcar and Cleveland,North East,45,559,459
+E06000004,Stockton-on-Tees,North East,444,746,536
+E06000005,Darlington,North East,152,440,459
+E06000006,Halton,North West,203,471,293
+E06000007,Warrington,North West,791,"1,064",937
+E06000008,Blackburn with Darwen,North West,134,506,513
+E06000009,Blackpool,North West,147,585,225
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,536,993,594
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,817,"1,924","1,941"
+E06000012,North East Lincolnshire,Yorkshire and The Humber,190,623,469
+E06000013,North Lincolnshire,Yorkshire and The Humber,359,637,480
+E06000014,York,Yorkshire and The Humber,"1,020","1,217",463
+E06000015,Derby,East Midlands,"1,244",906,892
+E06000016,Leicester,East Midlands,"2,435","1,557","1,030"
+E06000017,Rutland,East Midlands,123,266,101
+E06000018,Nottingham,East Midlands,"1,845","1,247","1,893"
+E06000019,"Herefordshire, County of",West Midlands,773,"1,363",935
+E06000020,Telford and Wrekin,West Midlands,463,857,"1,393"
+E06000021,Stoke-on-Trent,West Midlands,704,948,445
+E06000022,Bath and North East Somerset,South West,717,"1,471",570
+E06000023,"Bristol, City of",South West,"3,378","2,986","1,793"
+E06000024,North Somerset,South West,"1,324","1,593",917
+E06000025,South Gloucestershire,South West,"1,317","1,702","1,675"
+E06000026,Plymouth,South West,See Joint Plan,"1,290",324
+E06000027,Torbay,South West,599,940,258
+E06000030,Swindon,South West,"1,005","1,205",942
+E06000031,Peterborough,East of England,936,"1,006",873
+E06000032,Luton,East of England,"1,463","1,082",649
+E06000033,Southend-on-Sea,East of England,"1,173","1,405",334
+E06000034,Thurrock,East of England,"1,158","1,071",340
+E06000035,Medway,South East,"1,658","1,594","1,122"
+E06000036,Bracknell Forest,South East,563,766,688
+E06000037,West Berkshire,South East,495,"1,070",678
+E06000038,Reading,South East,878,"1,028",920
+E06000039,Slough,South East,856,808,560
+E06000040,Windsor and Maidenhead,South East,866,"1,449",487
+E06000041,Wokingham,South East,748,"1,336","1,044"
+E06000042,Milton Keynes,South East,"1,728","1,724","2,366"
+E06000043,Brighton and Hove,South East,"2,319","2,498","1,117"
+E06000044,Portsmouth,South East,897,"1,021",120
+E06000045,Southampton,South East,"1,473","1,214",347
+E06000046,Isle of Wight,South East,703,"1,062",370
+E06000047,County Durham,North East,"1,129","2,011","1,509"
+E06000049,Cheshire East,North West,977,"2,461","2,357"
+E06000050,Cheshire West and Chester,North West,532,"1,914","1,415"
+E06000051,Shropshire,West Midlands,"1,070","1,994","1,482"
+E06000052,Cornwall,South West,"2,707","4,421","2,650"
+E06000053,Isles of Scilly,South West,-,-,0
+E06000054,Wiltshire,South West,"1,917","3,525","2,018"
+E06000055,Bedford,East of England,"1,310","1,202","1,058"
+E06000056,Central Bedfordshire,East of England,"2,239","2,150","2,289"
+E06000057,Northumberland,North East,549,"1,649","1,565"
+E06000058,"Bournemouth, Christchurch and Poole",South West,Refer to corresponding re-organised former authorities and/or joint plan,"2,958",794
+E06000059,Dorset,South West,Refer to corresponding re-organised former authorities and/or joint plan,"3,219","1,662"
+E06000060,Buckinghamshire,South East,"2,912","4,319","2,907"
+E06000061,North Northamptonshire,East Midlands,"1,856","1,978","1,765"
+E06000062,West Northamptonshire,East Midlands,"2,124","2,515","2,094"
+E06000063,Cumberland,North West,244,"1,105",848
+E06000064,Westmorland and Furness,North West,227,"1,331",822
+E06000065,North Yorkshire,Yorkshire and the Humber,"1,361","4,077","3,331"
+E06000066,Somerset,South West,"2,669","3,769","2,761"
+E07000008,Cambridge,East of England,687,"1,135",567
+E07000009,East Cambridgeshire,East of England,583,682,673
+E07000010,Fenland,East of England,508,592,505
+E07000011,Huntingdonshire,East of England,874,"1,213","1,181"
+E07000012,South Cambridgeshire,East of England,"1,039","1,174","1,342"
+E07000032,Amber Valley,East Midlands,351,615,516
+E07000033,Bolsover,East Midlands,195,353,464
+E07000034,Chesterfield,East Midlands,211,500,359
+E07000035,Derbyshire Dales,East Midlands,216,580,222
+E07000036,Erewash,East Midlands,376,523,201
+E07000037,High Peak,East Midlands,243,553,362
+E07000038,North East Derbyshire,East Midlands,224,591,625
+E07000039,South Derbyshire,East Midlands,507,581,"1,033"
+E07000040,East Devon,South West,893,"1,188",881
+E07000041,Exeter,South West,642,800,599
+E07000042,Mid Devon,South West,346,572,329
+E07000043,North Devon,South West,See Joint Plan,803,522
+E07000044,South Hams,South West,See Joint Plan,910,582
+E07000045,Teignbridge,South West,717,"1,090",567
+E07000046,Torridge,South West,See Joint Plan,526,306
+E07000047,West Devon,South West,See Joint Plan,443,309
+E07000061,Eastbourne,South East,735,702,182
+E07000062,Hastings,South East,490,710,142
+E07000063,Lewes,South East,777,853,490
+E07000064,Rother,South East,727,932,266
+E07000065,Wealden,South East,"1,186","1,433",936
+E07000066,Basildon,East of England,"1,039","1,287",302
+E07000067,Braintree,East of England,813,"1,115","1,106"
+E07000068,Brentwood,East of England,511,724,472
+E07000069,Castle Point,East of England,349,701,101
+E07000070,Chelmsford,East of England,913,"1,454",901
+E07000071,Colchester,East of England,"1,043","1,300",950
+E07000072,Epping Forest,East of England,725,"1,299",281
+E07000073,Harlow,East of England,514,637,471
+E07000074,Maldon,East of England,276,569,391
+E07000075,Rochford,East of England,356,689,411
+E07000076,Tendring,East of England,770,"1,034",808
+E07000077,Uttlesford,East of England,675,804,592
+E07000078,Cheltenham,South West,545,824,234
+E07000079,Cotswold,South West,504,"1,036",358
+E07000080,Forest of Dean,South West,330,600,480
+E07000081,Gloucester,South West,663,685,440
+E07000082,Stroud,South West,620,820,616
+E07000083,Tewkesbury,South West,554,614,"1,019"
+E07000084,Basingstoke and Deane,South East,828,"1,127",807
+E07000085,East Hampshire,South East,575,"1,142",441
+E07000086,Eastleigh,South East,645,922,652
+E07000087,Fareham,South East,498,800,158
+E07000088,Gosport,South East,339,442,53
+E07000089,Hart,South East,297,750,530
+E07000090,Havant,South East,508,892,374
+E07000091,New Forest,South East,729,"1,501",187
+E07000092,Rushmoor,South East,265,586,410
+E07000093,Test Valley,South East,524,934,508
+E07000094,Winchester,South East,676,"1,157","1,054"
+E07000095,Broxbourne,East of England,634,775,486
+E07000096,Dacorum,East of England,"1,016","1,355",630
+E07000098,Hertsmere,East of England,731,"1,034",185
+E07000099,North Hertfordshire,East of England,910,"1,018",403
+E07000102,Three Rivers,East of England,640,832,202
+E07000103,Watford,East of England,850,831,762
+E07000105,Ashford,South East,997,952,700
+E07000106,Canterbury,South East,"1,141","1,216",665
+E07000107,Dartford,South East,792,712,638
+E07000108,Dover,South East,559,746,629
+E07000109,Gravesham,South East,661,672,378
+E07000110,Maidstone,South East,"1,220","1,358","1,244"
+E07000111,Sevenoaks,South East,704,"1,149",214
+E07000112,Folkestone and Hythe,South East,735,859,427
+E07000113,Swale,South East,"1,040","1,048",855
+E07000114,Thanet,South East,"1,146","1,148",670
+E07000115,Tonbridge and Malling,South East,820,"1,096",445
+E07000116,Tunbridge Wells,South East,660,"1,098",588
+E07000117,Burnley,North West,51,340,278
+E07000118,Chorley,North West,506,564,277
+E07000119,Fylde,North West,257,410,461
+E07000120,Hyndburn,North West,50,301,218
+E07000121,Lancaster,North West,415,619,286
+E07000122,Pendle,North West,124,333,231
+E07000123,Preston,North West,269,590,"1,366"
+E07000124,Ribble Valley,North West,113,310,578
+E07000125,Rossendale,North West,179,321,172
+E07000126,South Ribble,North West,169,489,598
+E07000127,West Lancashire,North West,166,562,446
+E07000128,Wyre,North West,280,582,690
+E07000129,Blaby,East Midlands,329,542,354
+E07000130,Charnwood,East Midlands,"1,115",978,698
+E07000131,Harborough,East Midlands,510,723,891
+E07000132,Hinckley and Bosworth,East Midlands,432,649,580
+E07000133,Melton,East Midlands,192,362,374
+E07000134,North West Leicestershire,East Midlands,357,595,755
+E07000135,Oadby and Wigston,East Midlands,198,382,258
+E07000136,Boston,East Midlands,250,356,317
+E07000137,East Lindsey,East Midlands,437,"1,009",544
+E07000138,Lincoln,East Midlands,See Joint Plan,413,148
+E07000139,North Kesteven,East Midlands,See Joint Plan,652,648
+E07000140,South Holland,East Midlands,427,542,680
+E07000141,South Kesteven,East Midlands,687,895,567
+E07000142,West Lindsey,East Midlands,See Joint Plan,487,626
+E07000143,Breckland,East of England,625,903,947
+E07000144,Broadland,East of England,See Joint Plan,868,822
+E07000145,Great Yarmouth,East of England,354,525,350
+E07000146,King's Lynn and West Norfolk,East of England,554,989,521
+E07000147,North Norfolk,East of England,556,932,327
+E07000148,Norwich,East of England,See Joint Plan,779,351
+E07000149,South Norfolk,East of England,See Joint Plan,943,"1,005"
+E07000170,Ashfield,East Midlands,446,535,405
+E07000171,Bassetlaw,East Midlands,260,613,931
+E07000172,Broxtowe,East Midlands,384,621,332
+E07000173,Gedling,East Midlands,460,609,551
+E07000174,Mansfield,East Midlands,259,495,377
+E07000175,Newark and Sherwood,East Midlands,437,707,675
+E07000176,Rushcliffe,East Midlands,609,830,"1,079"
+E07000177,Cherwell,South East,706,"1,118","1,096"
+E07000178,Oxford,South East,762,"1,087",432
+E07000179,South Oxfordshire,South East,579,"1,242","1,076"
+E07000180,Vale of White Horse,South East,633,949,"1,218"
+E07000181,West Oxfordshire,South East,549,905,811
+E07000192,Cannock Chase,West Midlands,248,518,415
+E07000193,East Staffordshire,West Midlands,417,602,808
+E07000194,Lichfield,West Midlands,289,745,738
+E07000195,Newcastle-under-Lyme,West Midlands,330,545,371
+E07000196,South Staffordshire,West Midlands,223,651,486
+E07000197,Stafford,West Midlands,358,751,520
+E07000198,Staffordshire Moorlands,West Midlands,159,454,219
+E07000199,Tamworth,West Midlands,123,445,347
+E07000200,Babergh,East of England,See Joint Plan,775,663
+E07000202,Ipswich,East of England,466,723,195
+E07000203,Mid Suffolk,East of England,See Joint Plan,734,"1,039"
+E07000207,Elmbridge,South East,653,"1,562",470
+E07000208,Epsom and Ewell,South East,569,889,191
+E07000209,Guildford,South East,743,"1,170",718
+E07000210,Mole Valley,South East,460,833,211
+E07000211,Reigate and Banstead,South East,644,"1,306",627
+E07000212,Runnymede,South East,546,626,479
+E07000213,Spelthorne,South East,631,793,253
+E07000214,Surrey Heath,South East,320,684,365
+E07000215,Tandridge,South East,634,843,261
+E07000216,Waverley,South East,710,"1,481",802
+E07000217,Woking,South East,436,794,427
+E07000218,North Warwickshire,West Midlands,163,364,209
+E07000219,Nuneaton and Bedworth,West Midlands,421,737,943
+E07000220,Rugby,West Midlands,525,618,"1,037"
+E07000221,Stratford-on-Avon,West Midlands,553,"1,126","1,343"
+E07000222,Warwick,West Midlands,653,"1,062",874
+E07000223,Adur,South East,449,558,108
+E07000224,Arun,South East,"1,342","1,476",865
+E07000225,Chichester,South East,760,"1,305",793
+E07000226,Crawley,South East,476,654,229
+E07000227,Horsham,South East,917,"1,357",512
+E07000228,Mid Sussex,South East,"1,039","1,356","1,140"
+E07000229,Worthing,South East,322,871,285
+E07000234,Bromsgrove,West Midlands,386,713,161
+E07000235,Malvern Hills,West Midlands,See Joint Plan,651,271
+E07000236,Redditch,West Midlands,143,486,170
+E07000237,Worcester,West Midlands,See Joint Plan,552,357
+E07000238,Wychavon,West Midlands,See Joint Plan,971,612
+E07000239,Wyre Forest,West Midlands,211,584,402
+E07000240,St Albans,East of England,885,"1,660",384
+E07000241,Welwyn Hatfield,East of England,910,848,341
+E07000242,East Hertfordshire,East of England,"1,041","1,265","1,009"
+E07000243,Stevenage,East of England,470,478,129
+E07000244,East Suffolk,East of England,905,"1,644",830
+E07000245,West Suffolk,East of England,765,"1,195",779
+E08000001,Bolton,North West,See Joint Plan,"1,184",640
+E08000002,Bury,North West,See Joint Plan,979,271
+E08000003,Manchester,North West,See Joint Plan,"2,430","2,701"
+E08000004,Oldham,North West,See Joint Plan,910,441
+E08000005,Rochdale,North West,See Joint Plan,918,609
+E08000006,Salford,North West,See Joint Plan,"1,308","2,557"
+E08000007,Stockport,North West,"1,097","1,815",563
+E08000008,Tameside,North West,See Joint Plan,"1,124",507
+E08000009,Trafford,North West,See Joint Plan,"1,599",727
+E08000010,Wigan,North West,See Joint Plan,"1,418","1,296"
+E08000011,Knowsley,North West,255,600,642
+E08000012,Liverpool,North West,"2,167","1,847","1,827"
+E08000013,St. Helens,North West,391,718,304
+E08000014,Sefton,North West,578,"1,368",714
+E08000015,Wirral,North West,728,"1,602",617
+E08000016,Barnsley,Yorkshire and The Humber,831,944,638
+E08000017,Doncaster,Yorkshire and The Humber,525,"1,198","1,291"
+E08000018,Rotherham,Yorkshire and The Humber,544,"1,080",873
+E08000019,Sheffield,Yorkshire and The Humber,"3,036","2,390","1,970"
+E08000021,Newcastle upon Tyne,North East,"1,417","1,206","1,104"
+E08000022,North Tyneside,North East,745,989,516
+E08000023,South Tyneside,North East,306,623,191
+E08000024,Sunderland,North East,512,"1,059",941
+E08000025,Birmingham,West Midlands,"7,174","4,448","3,595"
+E08000026,Coventry,West Midlands,"3,081","1,388","1,533"
+E08000027,Dudley,West Midlands,657,"1,462",421
+E08000028,Sandwell,West Midlands,"1,550","1,346",549
+E08000029,Solihull,West Midlands,866,"1,323",590
+E08000030,Walsall,West Midlands,906,"1,148",455
+E08000031,Wolverhampton,West Midlands,"1,096","1,086",921
+E08000032,Bradford,Yorkshire and The Humber,"2,232","1,828","1,255"
+E08000033,Calderdale,Yorkshire and The Humber,742,854,395
+E08000034,Kirklees,Yorkshire and The Humber,"1,595","1,840",964
+E08000035,Leeds,Yorkshire and The Humber,"3,987","3,811","3,421"
+E08000036,Wakefield,Yorkshire and The Humber,923,"1,541","1,292"
+E08000037,Gateshead,North East,417,811,399
+E09000001,City of London,,150,170,146
+E09000002,Barking and Dagenham,,"2,979","1,325","1,141"
+E09000003,Barnet,,"4,468","4,057","2,240"
+E09000004,Bexley,,"1,295","1,860",660
+E09000005,Brent,,"4,180","3,080","2,242"
+E09000006,Bromley,,"1,463","3,001",229
+E09000007,Camden,,"1,962","3,137",502
+E09000008,Croydon,,"3,929","2,887","2,371"
+E09000009,Ealing,,"3,632","3,407","1,449"
+E09000010,Enfield,,"2,355","2,762",788
+E09000011,Greenwich,,"4,077","2,575","1,101"
+E09000012,Hackney,,"2,510","2,796",930
+E09000013,Hammersmith and Fulham,,"1,580","2,783","1,725"
+E09000014,Haringey,,"3,009","2,956","1,198"
+E09000015,Harrow,,"1,516","2,294",613
+E09000016,Havering,,"2,429","1,979",760
+E09000017,Hillingdon,,"2,047","2,292",795
+E09000018,Hounslow,,"3,368","2,052","1,397"
+E09000019,Islington,,"1,465","2,460",601
+E09000020,Kensington and Chelsea,,847,"5,107",236
+E09000021,Kingston upon Thames,,"1,822","1,589",547
+E09000022,Lambeth,,"2,523","3,327",485
+E09000023,Lewisham,,"3,151","2,644",377
+E09000024,Merton,,"1,735","2,081",579
+E09000025,Newham,,"4,188","2,358","2,742"
+E09000026,Redbridge,,"2,663","2,407",282
+E09000027,Richmond upon Thames,,777,"2,513",154
+E09000028,Southwark,,"4,065","2,914","1,533"
+E09000029,Sutton,,886,"1,654",460
+E09000030,Tower Hamlets,,"5,190","2,265","2,619"
+E09000031,Waltham Forest,,"2,389","2,535","1,049"
+E09000032,Wandsworth,,"3,315","4,383","2,254"
+E09000033,Westminster,,"1,862","4,341","1,328"
