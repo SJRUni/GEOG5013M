@@ -8,3 +8,4 @@ This repo contains the code and files nessesary to recreate the projections of t
 - Convert fuel (gas) and electricity demand values to running cost estimations.
 - Map results and carry out intial exploratory analysis on results
 
+Additional files too large to store on this repo can be accessed via this public Google Drive folder: https://drive.google.com/drive/folders/1eJ80T-ADroYOcYl_MjP2rVzQJE31Xolu?usp=drive_link
